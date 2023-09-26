@@ -3,7 +3,7 @@
 ## Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white")](https://www.linkedin.com/in/nedson-nogueira-271088286/?originalSubdomain=br)
-[![Gmail](https://img.shields.io/twitter/url?label=Mail&logo=gmail&style=social&url=https://mailto:lucasaraujodesa@hotmail.com)](mailto:nedson.junior91@gmail.com)
+[![Gmail](https://img.shields.io/twitter/url?label=Mail&logo=gmail&style=social&url=https://mailto:nedson.junior91@gmail.com)](mailto:nedson.junior91@gmail.com)
 
 
 <div>
