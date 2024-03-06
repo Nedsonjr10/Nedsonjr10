@@ -1,25 +1,26 @@
-# Nedson Junior 💻
+# Hi, my name is Nedson Bomman! 👨🏻‍💻
 
-## Developer
+## About
+I am a full-stack Developer, in love with the tech area and passionate about solving problems.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white")](https://www.linkedin.com/in/nedson-nogueira-271088286/?originalSubdomain=br)
-[![Gmail](https://img.shields.io/twitter/url?label=Mail&logo=gmail&style=social&url=https://mailto:nedson.junior91@gmail.com)](mailto:nedson.junior91@gmail.com)
-
-
-<div>
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Nedsonjr10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedsonjr10&layout=compact&langs_count=16&theme=radical"/>
-  </div>
-
-## Skills:
-<div style = "display: inline_block"><br/>
-    <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align= alt="spring boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=black" />
-    <img align= alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black" />
-    <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div><br/>
+I have experiencie with the following technologies:
+- Java;
+- Python;
+- Html, Css and JavaScript;
+- Dart and Flutter;
+- C++;
+- C;
+- MySql;
   
+I love challenges and I want to grow professionally every single day.
 
+### Contact:
+<div> 
+  <a href="https://instagram.com/erickscur" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:erickscur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erick-scur-1044a5191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ <br> <br>
+<div>
+
+                                                                 
