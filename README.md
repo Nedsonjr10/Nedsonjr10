@@ -5,9 +5,6 @@ I am a full-stack Developer, in love with the tech area and passionate about sol
 
 I have experiencie with the following technologies:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nedsonjr10&layout=donut)](https://github.com/Nedsonjr10/github-readme-stats)
-
-
 - Java;
 - Python;
 - Html, Css and JavaScript;
