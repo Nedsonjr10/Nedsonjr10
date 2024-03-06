@@ -1,6 +1,6 @@
 # Hi, my name is Nedson Bomman! 👨🏻‍💻
 
-## About
+##  Hard Skills 👨‍🎓:
 I am a full-stack Developer, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies:
