@@ -5,11 +5,11 @@ I am a full-stack Developer, in love with the tech area and passionate about sol
 
 I have experiencie with the following technologies:
 
-- Java;
+- Java and SpringBoot;
 - Python;
 - Html, Css and JavaScript;
 - Dart and Flutter;
-- MySql;
+- MySql and MongoDB;
 - C++;
 - C;
   
